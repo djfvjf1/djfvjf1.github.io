@@ -3,4 +3,4 @@
 # Михаил Шаповалов
 Мои домашние задания
 
-[Урок 12](https://djfvjf1.github.io/lesson_12)
+[Урок 12](https://djfvjf1.github.io/lesson_12) - работа с репозиторием на github
